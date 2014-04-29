@@ -18,7 +18,7 @@ public class Personne implements Serializable {
 
 	private static final long serialVersionUID = 1L;
 	
-	//test commentaire
+	//test commentaire push
 
 	@Id
 	@GeneratedValue(strategy=GenerationType.AUTO)
