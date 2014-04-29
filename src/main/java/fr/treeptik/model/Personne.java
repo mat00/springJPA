@@ -17,6 +17,8 @@ import javax.persistence.TemporalType;
 public class Personne implements Serializable {
 
 	private static final long serialVersionUID = 1L;
+	
+	//test commentaire
 
 	@Id
 	@GeneratedValue(strategy=GenerationType.AUTO)
